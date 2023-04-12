@@ -273,6 +273,11 @@ body:hover>.main-container {
     position: relative;
 }
 
+.right-side p {
+    line-height: 12px !important;
+    /* font-size: 1rem; */
+}
+
 .btn {
     border: 1px solid var(--clr-pr);
     font-size: 0.6rem;
